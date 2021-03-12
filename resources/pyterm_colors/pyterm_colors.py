@@ -1,3 +1,6 @@
+# pyterm_colors.py
+
+# create class color:
 class color:
 
     # Part one: To be used as :
