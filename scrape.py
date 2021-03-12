@@ -1,10 +1,11 @@
 #!/usr/bin/env python
-import os
-import signal
-import sys
-import warnings
+import os # use os
+import signal # use signal 
 
-import requests
+import sys # use sys
+import warnings # use warnings
+
+import requests # use requests
 
 from bs4 import BeautifulSoup
 from resources.pyterm_colors import pyterm_colors
